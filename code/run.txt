@@ -1,0 +1,2 @@
+javac E1.java    
+java E1 rangetree_10000_3.txt 3
